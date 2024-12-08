@@ -10,7 +10,7 @@ Hi, welcome! All the resources you need are here.
 ## Analysis II
 
 to be continued
-<!doctype html>
+
 <html>
     <head>
 	    <title> Study Resources
@@ -48,4 +48,4 @@ to be continued
 	   
 	   
 	</body>
-</html
+

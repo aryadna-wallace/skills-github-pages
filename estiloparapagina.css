@@ -1,0 +1,260 @@
+body {
+	background-color: #F6F8F1
+}
+
+header {
+	width: 960px;
+	height: 100px;	
+	background-color:#FFFFFF;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 5px;
+}
+
+section {
+	width: 960px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 5px;
+}
+
+#menu {
+	width: 320px;
+	height: 100px;	
+	background-color: #ECEAE0;
+    float:left;
+	
+	}
+ #logo {
+	width: 540px;
+	height: 100px;	
+	background-color: #FFFFFF;
+    float:left;
+	}
+
+#botonera_arriba {
+	width: 100px;
+	height: 100px;	
+	background-color: #000000;
+	float: right;
+	}
+
+#breve_historia {
+	height: 1500px;	
+	background-color:#E7E1D5;
+    margin-bottom: 5px;
+   }
+
+#historia_imagen1 {
+	width: 200px;
+	height: 400px;	
+	background-color: #EDF0E3;
+    margin-bottom: 5px;
+    float: left;
+   }
+
+#historia_titulo{
+	width: 376px;
+	height: 400px;	
+	background-color: #FFFFFF;
+	margin-left: 3px;
+	margin-right: 3px;
+	float: left;
+	margin-bottom: 5px
+	}	
+
+#historia_texto{
+	width: 377px;
+	height: 400px;	
+	background-color: #EDF0E3;
+    float: right;
+    margin-bottom: 5px
+    
+}
+
+#historia_foto{
+	width: 343px;
+	height: 400px;	
+	background-color: #FFFFFF;
+    float: left;
+    margin-bottom: 5px
+}
+
+
+
+#texto_lineadetiempo {
+	width: 613px;
+	height: 400px;	
+	background-color: #D1DAC0;
+    float: right;
+    margin-bottom: 5px
+}
+
+#historia_adefinir {
+	width: 613px;
+	height: 400px;	
+	background-color: #AFBE91;
+    float: left;
+    margin-bottom: 5px
+}
+
+
+#historia_adefinir2 {
+	width: 343px;
+	height: 400px;	
+	background-color: #FFFFFF;
+    float: right;
+    margin-bottom: 5px
+}
+
+#imagen_recortada1 {
+	width: 192px;
+	height: 280px;	
+	background-color: #FFFFFF;
+    float: left;
+    margin-bottom: 5px;
+}
+
+#imagen_recortada2 {
+	width: 192px;
+	height: 280px;	
+	background-color: #FFFFFF;
+    float: left;
+    margin-bottom: 5px;
+}
+#imagen_recortada3 {
+	width: 192px;
+	height: 280px;	
+	background-color: #FFFFFF;
+    float: left;
+    margin-bottom: 5px;
+}
+#imagen_recortada4 {
+	width: 192px;
+	height: 280px;	
+	background-color: #FFFFFF;
+    float: right;
+    margin-bottom: 5px;
+}
+#imagen_recortada5 {
+	width: 192px;
+	height: 280px;	
+	background-color: #FFFFFF;
+    float: right;
+    margin-bottom: 5px;
+}
+
+
+#filosofia {
+	height: 500px;	
+	background-color: #D8DCCF;
+	margin-top: 5px
+}
+
+
+#recursos {
+	height: 500px;	
+	background-color: #CBD1C0;
+}
+
+#libros {
+	width:235px;
+	height: 500px;	
+	background-color: #797F6E;
+    float: left;
+    margin-bottom: 5px;
+    margin-right: 2px
+    }
+
+#paginas_web {
+	width: 235px;
+	height: 500px;	
+	background-color: #797F6E;
+    margin-left: 2px;
+	margin-right: 2px;
+    margin-bottom: 5px;
+    float: left;
+}
+
+#videos {
+	width: 235px;
+	height: 500px;	
+	background-color: #797F6E;
+	margin-left: 2px;
+	margin-right: 2px;
+    float: right;
+    margin-bottom: 5px;
+}
+
+#conferencias {
+	width: 235px;
+	height: 500px;	
+	background-color: #797F6E;
+    float: right;
+    margin-left: 2px
+    margin-bottom: 5px;
+   
+}
+
+
+#referentes {
+	height: 500px;	
+	background-color: #BDC5B0;
+
+}
+
+#referentes_imagen {
+	width: 960px;
+	height: 250px;	
+	background-color: #C5AEBC;
+	margin-left: auto;
+	margin-right: auto;
+     
+}
+
+#imagen_de_saludos_al_sol {
+	width: 960px;
+	height: 250px;	
+	background-color: #64264C;
+   margin-left: auto;
+   margin-right: auto;
+
+   }
+
+
+
+footer {
+	width: 960px;
+	height: 100px;	
+	background-color: #FFFFFF;
+	margin-left: auto;
+	margin-right: auto;
+	
+}	
+
+#logo_2 {
+	width: 320px;
+	height: 105px;	
+	background-color: #6A4E41;
+    margin-bottom: 5px;
+    float: left;
+  }
+
+
+#contacto{
+	width: 320px;
+	height: 110px;	
+	background-color: #000000;
+	float: left;
+	margin-bottom: 5px;
+	}	
+
+#colaboradores{
+	width: 320px;
+	height: 110px;	
+	background-color: #8F7A71;
+    float: right;
+    margin-bottom: 5px;
+    
+}
+
